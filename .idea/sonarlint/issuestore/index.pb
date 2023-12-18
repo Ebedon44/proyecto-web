@@ -1,0 +1,29 @@
+
+M
+src/main/java/model/Area.java,2\a\2ab9ea2c7a93ef7d7923309917653ab5092e518d
+P
+ src/main/java/model/Persona.java,4\4\44e7638b50a8bcb3973ae81ea73ed72ca71bbade
+P
+ src/main/java/model/Proceso.java,8\9\89b7849f15ff9b6e679739c45f07007be92e14c7
+Q
+!src/main/java/model/Proyecto.java,f\f\fffd01536bfa98d114429d6f3a0250945b5561fd
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+b
+2src/main/java/services/interfaces/AppServices.java,7\9\79e34d9c4b31cc3110efbd8b3fe29210b15ae6f9
+V
+&src/main/java/services/ejb/AppEjb.java,d\7\d7511358fd14ba160a1d5512ba8a853a5ab43b8a
+V
+&src/main/java/managedbeans/AreaMB.java,4\5\45f3fbc5044a49c246ca8f8e576f51b70c0a706d
+D
+nb-configuration.xml,3\7\37f39013c8e074c1c1924d690948a7bdf73c6e1d
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+Q
+!src/main/webapp/WEB-INF/beans.xml,8\3\83008b1a88ba03a2548bb5b9ad0768c6c307d36c
+T
+$src/main/java/config/Constantes.java,c\2\c2b4b45f4971520aa4b975868c06dfa44dd54763
+K
+src/main/webapp/areas.xhtml,d\8\d84e8273cc1ee3c4b98410637038adc018386784
+K
+src/main/webapp/index.xhtml,b\b\bb585a12746e3c58077a000cb566d3b2b7ff11e3

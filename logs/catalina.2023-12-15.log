@@ -1,0 +1,179 @@
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Nombre de la versión del servidor: Apache Tomcat (TomEE)/9.0.82 (8.0.16)
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server built:                      Oct 11 2023 13:15:08 UTC
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Número de versión de servidor:     9.0.82.0
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Name:                           Windows 11
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Versión de Systema Operativo:      10.0
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Arquitectura:                      amd64
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Java Home:                         C:\Program Files\Java\jdk-11
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Version:                       11.0.20+9-LTS-256
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Vededor JVM:                       Oracle Corporation
+15-Dec-2023 10:53:23.666 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:                     C:\Users\Erick Bedón\Desktop\Origami\proyecto-web
+15-Dec-2023 10:53:23.667 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:                     C:\Program Files\Servidores\apache-tomee-plus-8.0.16
+15-Dec-2023 10:53:23.674 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Dec-2023 10:53:23.674 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Dcatalina.home=C:\Program Files\Servidores\apache-tomee-plus-8.0.16
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Dcatalina.base=C:\Users\Erick Bedón\Desktop\Origami\proyecto-web
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Djava.io.tmpdir=C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\temp
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Djava.util.logging.config.file=C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\logging.properties
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3\lib\idea_rt.jar=63043:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3\bin
+15-Dec-2023 10:53:23.675 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument:             -Dfile.encoding=UTF-8
+15-Dec-2023 10:53:23.681 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\Erick Bedón\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Erick Bedón\AppData\Local\Programs\Python\Python311;C:\Users\Erick Bedón\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Erick Bedón\AppData\Local\Microsoft\WindowsApps;C:\Users\Erick Bedón\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\Erick Bedón\AppData\Roaming\npm;c:\Users\Erick Bedón\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\Erick Bedón\AppData\Local\Programs\Python\Python311;C:\Users\Erick Bedón\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Erick Bedón\AppData\Local\Microsoft\WindowsApps;C:\Users\Erick Bedón\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Erick Bedón\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\Erick Bedón\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3\bin;;.]
+15-Dec-2023 10:53:23.977 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Inicializando el manejador de protocolo ["http-nio-8080"]
+
+15-Dec-2023 10:53:23.991 SEVERE [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Fallo al iniciar el componente [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Falló la inicialización del manejador de protocolo
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1011)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:554)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1039)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:724)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:746)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:307)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:477)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:459)
+		at java.base/sun.nio.ch.Net.bind(Net.java:448)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:276)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:231)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1326)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1339)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:654)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1009)
+		... 13 more
+15-Dec-2023 10:53:24.169 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+15-Dec-2023 10:53:24.256 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+15-Dec-2023 10:53:24.256 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB https://tomee.apache.org/
+15-Dec-2023 10:53:24.256 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Fri Dec 15 10:53:24 ECT 2023
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2023 (C) Apache TomEE Project, All Rights Reserved.
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.16
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20231029
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 12:20
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Program Files\Servidores\apache-tomee-plus-8.0.16
+15-Dec-2023 10:53:24.257 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\Erick Bedón\Desktop\Origami\proyecto-web
+15-Dec-2023 10:53:24.258 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@6475472c
+15-Dec-2023 10:53:24.262 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+15-Dec-2023 10:53:24.288 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\tomee.xml'
+15-Dec-2023 10:53:24.322 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+15-Dec-2023 10:53:24.323 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+15-Dec-2023 10:53:24.325 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+15-Dec-2023 10:53:24.345 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+15-Dec-2023 10:53:24.383 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+15-Dec-2023 10:53:24.446 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+15-Dec-2023 10:53:24.598 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+15-Dec-2023 10:53:24.617 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+15-Dec-2023 10:53:24.617 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+15-Dec-2023 10:53:24.617 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+15-Dec-2023 10:53:24.617 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+15-Dec-2023 10:53:24.618 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [1147] milliseconds
+15-Dec-2023 10:53:24.652 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+15-Dec-2023 10:53:24.652 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+15-Dec-2023 10:53:24.667 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio [Catalina]
+15-Dec-2023 10:53:24.667 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.82 (8.0.16)]
+15-Dec-2023 10:53:24.676 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Desplieque del descriptor de configuración [C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\Catalina\localhost\proyecto-web.xml]
+15-Dec-2023 10:53:24.682 WARNING [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke The path attribute with value [/proyecto-web] in deployment descriptor [C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\Catalina\localhost\proyecto-web.xml] has been ignored
+15-Dec-2023 10:53:24.687 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /proyecto-web
+15-Dec-2023 10:53:25.000 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\src\main\webapp
+15-Dec-2023 10:53:25.051 SEVERE [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Error durante el despliegue del descriptor de configuración [C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\Catalina\localhost\proyecto-web.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:661)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:345)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/proyecto-web]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 37 more
+	Caused by: java.lang.NoClassDefFoundError: org/springframework/util/MultiValueMap
+		at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+		at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3166)
+		at java.base/java.lang.Class.privateGetPublicMethods(Class.java:3191)
+		at java.base/java.lang.Class.getMethods(Class.java:1904)
+		at org.apache.openejb.config.AnnotationDeployer$ProcessAnnotatedBeans.processApplicationExceptions(AnnotationDeployer.java:3062)
+		at org.apache.openejb.config.AnnotationDeployer$ProcessAnnotatedBeans.deploy(AnnotationDeployer.java:2570)
+		at org.apache.openejb.config.AnnotationDeployer$ProcessAnnotatedBeans.deploy(AnnotationDeployer.java:1995)
+		at org.apache.openejb.config.AnnotationDeployer.deploy(AnnotationDeployer.java:385)
+		at org.apache.openejb.config.ConfigurationFactory$Chain.deploy(ConfigurationFactory.java:420)
+		at org.apache.openejb.config.ConfigurationFactory.configureApplication(ConfigurationFactory.java:1033)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal(TomcatWebAppBuilder.java:1318)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.configureStart(TomcatWebAppBuilder.java:1162)
+		at org.apache.tomee.catalina.GlobalListenerSupport.lifecycleEvent(GlobalListenerSupport.java:134)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4820)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 38 more
+	Caused by: java.lang.ClassNotFoundException: org.springframework.util.MultiValueMap
+		at org.apache.openejb.core.TempClassLoader.loadClass(TempClassLoader.java:186)
+		at org.apache.openejb.core.TempClassLoader.loadClass(TempClassLoader.java:83)
+		... 54 more
+15-Dec-2023 10:53:25.055 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deployment of deployment descriptor [C:\Users\Erick Bedón\Desktop\Origami\proyecto-web\conf\Catalina\localhost\proyecto-web.xml] has finished in [378] ms
+15-Dec-2023 10:53:25.059 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [441] milliseconds
+15-Dec-2023 10:53:25.061 SEVERE [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: NET_Bind
+		at java.base/java.net.PlainSocketImpl.bind0(Native Method)
+		at java.base/java.net.PlainSocketImpl.socketBind(PlainSocketImpl.java:132)
+		at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:452)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:381)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:243)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:581)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+15-Dec-2023 10:53:25.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2023 10:53:25.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Parando servicio [Catalina]
+15-Dec-2023 10:53:25.064 INFO [main] org.apache.openejb.server.SimpleServiceManager.stop Stopping server services
+15-Dec-2023 10:53:25.079 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2023 10:53:25.079 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Destroying ProtocolHandler ["http-nio-8080"]
